@@ -1,0 +1,4 @@
+Mammal,1,tony,tiger,2009-09-10,2009-09-11,5,1,60000,meat,jungle,male,,N/A
+Mammal,2,peter,Rabbit,2010-09-09,2012-06-21,1,2,500,grass,burrell,male,,N/A
+Mammal,3,George,Rabbit,2016-09-21,2018-08-23,0,3,600,grass,burrell,female,,N/A
+FlyingBird,3,jason,eagle,2009-09-09,4,40000,mice,forest,male,feed meat 3 times a day,cliff,3,40,3

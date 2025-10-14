@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClydeConservationSystem", "ClydeConservationSystem\ClydeConservationSystem.csproj", "{BD7E6427-5C3C-4DD6-814A-4F90C1F56F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7E6427-5C3C-4DD6-814A-4F90C1F56F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7E6427-5C3C-4DD6-814A-4F90C1F56F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7E6427-5C3C-4DD6-814A-4F90C1F56F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7E6427-5C3C-4DD6-814A-4F90C1F56F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69AC604F-68B3-407D-A726-32F8B09B3108}
+	EndGlobalSection
+EndGlobal

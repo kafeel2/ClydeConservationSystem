@@ -1,0 +1,25 @@
+﻿=== Weekly Report ===
+Date Generated: 2025-03-05
+==========================================
+
+--- Animal Summary ---
+ID: 1, Name: tony, Type: tiger, Cage: 1
+ID: 2, Name: peter, Type: Rabbit, Cage: 2
+ID: 3, Name: George, Type: Rabbit, Cage: 3
+
+--- Bird Summary ---
+ID: 3, Name: jason, Type: eagle, Cage: 3
+
+--- Loaning and Borrowing Activity ---
+
+--- Loaned-Out Animals & Birds ---
+
+--- Borrowed Animals & Birds ---
+
+--- Keeper Allocations ---
+Keeper ID: 1, Name: kafeel ahmed, Assigned Cages: 
+Keeper ID: 2, Name: Akeel Ahmed, Assigned Cages: 
+Keeper ID: 3, Name: Shakeel Ahmed, Assigned Cages: 
+
+--- Health Checks and Vet Visits ---
+Health checks and vet visit information to be implemented...
